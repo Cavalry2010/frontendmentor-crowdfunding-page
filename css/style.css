@@ -569,10 +569,6 @@ div.out-of-stock {
   transition: visibility 0.2s, transform 0.2s;
 }
 
-.invalid-input {
-  margin-top: 2rem;
-}
-
 .invalid-input .form-message {
   visibility: visible;
   transform: translateY(-50%);

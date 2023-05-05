@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-crowdfunding-product-page-with-flexbox-css-grid-nav-etc-YakBNHM0lH)
 - Live Site URL: [Crowdfunding Page](https://crowdfunding-page-alejandro.netlify.app)
 
 ## My process

@@ -289,6 +289,10 @@
     margin: 1rem auto;
   }
 
+  .invalid-input {
+    margin-top: 2rem;
+  }
+
   .submit-btn {
     padding: 1.5rem 2.8rem;
   }
